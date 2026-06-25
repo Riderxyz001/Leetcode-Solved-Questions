@@ -7,13 +7,20 @@ class Solution {
 
         for(String str : strs) {
 
-            char[] ch = str.toCharArray();
-            Arrays.sort(ch);
+            int[] count = new int[26];
 
-            String key = new String(ch);
+            for(char ch : str.toCharArray()) {
+                count[ch - 'a']++;
+            }
 
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(str);
+            StringBuilder key = new StringBuilder();
+
+            for(int c : count) {
+                key.append('#').append(c);
+            }
+
+            map.putIfAbsent(key.toString(), new ArrayList<>());
+            map.get(key.toString()).add(str);
         }
 
         return new ArrayList<>(map.values());
