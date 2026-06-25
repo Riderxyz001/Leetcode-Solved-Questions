@@ -68,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
