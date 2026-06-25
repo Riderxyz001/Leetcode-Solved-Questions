@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
