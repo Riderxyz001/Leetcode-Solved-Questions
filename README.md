@@ -54,8 +54,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
