@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 | [1518-water-bottles](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
