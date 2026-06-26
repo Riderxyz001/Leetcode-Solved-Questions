@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
@@ -83,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
