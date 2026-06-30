@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0326-power-of-three) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0796-rotate-string) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Riderxyz001/Leetcode-Solved-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Monotonic Stack
 |  |
 | ------- |
